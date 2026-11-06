@@ -1,0 +1,21 @@
+# Configuração pessoal (tem a sua URL e a sua CHAVE) — nunca suba para o Git
+desktop/config.json
+config.json
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Modelo do Vosk, se baixado dentro do projeto
+vosk-model-*/
+*.zip
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
