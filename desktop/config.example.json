@@ -1,0 +1,12 @@
+{
+  "url": "https://script.google.com/macros/s/COLE_O_ID_DA_SUA_IMPLANTACAO/exec",
+  "chave": "COLE_SUA_CHAVE",
+  "atalho": "<ctrl>+<alt>+j",
+  "voz_ligada": true,
+  "ouvir_ligado": true,
+  "idioma": "pt-BR",
+  "microfone": null,
+  "sensibilidade": 1.0,
+  "pausa_fim_segundos": 4.5,
+  "texto_ao_vivo": true
+}
